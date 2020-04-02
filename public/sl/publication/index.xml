@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Slovensko</title>
+    <link>/sl/publication/</link>
+      <atom:link href="/sl/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2020</copyright><lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Publications</title>
+      <link>/sl/publication/</link>
+    </image>
+    
+    <item>
+      <title>The Effects of Gamification and Oral Self-care on Oral Hygiene in Children: a Systematic Review of mHealth Apps</title>
+      <link>/sl/publication/jmir_2020/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/jmir_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretability of machine learning based prediction models in healthcare</title>
+      <link>/sl/publication/wires_2020/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/wires_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local vs. global interpretability of machine learning models in type 2 diabetes mellitus screening</title>
+      <link>/sl/publication/lncs_2019/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/lncs_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National and regional hospitalization rates for allergic disorders in the United States : a 17 year time-trend analysis</title>
+      <link>/sl/publication/allergy_2019/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/allergy_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R you ready? Using the R programme for statistical analysis and graphics</title>
+      <link>/sl/publication/res_nurs_2019/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/res_nurs_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

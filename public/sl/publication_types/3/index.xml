@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Slovensko</title>
+    <link>/sl/publication_types/3/</link>
+      <atom:link href="/sl/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2020</copyright><lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>3</title>
+      <link>/sl/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Interpretability of machine learning based prediction models in healthcare</title>
+      <link>/sl/publication/wires_2020/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/wires_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

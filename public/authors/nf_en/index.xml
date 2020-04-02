@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/authors/nf_en/</link>
+      <atom:link href="/authors/nf_en/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2020</copyright><lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title></title>
+      <link>/authors/nf_en/</link>
+    </image>
+    
+    <item>
+      <title>The Effects of Gamification and Oral Self-care on Oral Hygiene in Children: a Systematic Review of mHealth Apps</title>
+      <link>/publication/jmir_2020/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jmir_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretability of machine learning based prediction models in healthcare</title>
+      <link>/publication/wires_2020/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/wires_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National and regional hospitalization rates for allergic disorders in the United States : a 17 year time-trend analysis</title>
+      <link>/publication/allergy_2019/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/allergy_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

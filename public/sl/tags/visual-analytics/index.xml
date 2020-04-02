@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Analytics | Slovensko</title>
+    <link>/sl/tags/visual-analytics/</link>
+      <atom:link href="/sl/tags/visual-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visual Analytics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Visual Analytics</title>
+      <link>/sl/tags/visual-analytics/</link>
+    </image>
+    
+    <item>
+      <title>FWO-ARRS project</title>
+      <link>/sl/project/fwo-arrs_2019-2022/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/sl/project/fwo-arrs_2019-2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Izboljšanje razumljivosti in napovedne zmogljivosti modelov za oceno tveganja in podporo odločanju v kliničnem okolju&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Main host institution: &lt;strong&gt;KU Leuven&lt;/strong&gt;&lt;br&gt;
+&lt;sub&gt;Supervisor: &lt;em&gt;Katrien Verbert&lt;/em&gt; (Informatics Section, KU Leuven)&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;Foreign host institution: &lt;strong&gt;University of Maribor&lt;/strong&gt;&lt;br&gt;
+&lt;sub&gt;Supervisor: &lt;em&gt;Gregor Štiglic&lt;/em&gt; (FHS, University of Maribor)&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;br&gt;
+Recently rediscovered and vastly improved neural network based techniques, commonly named deep learning techniques, are becoming increasingly popular as a predictive tool in different fields of healthcare. It was shown that deep learning techniques outperform less complex predictive models on many occasions, especially in cases where feature engineering is needed prior to prediction. On the other hand, deep learning based risk estimation allows very limited interpretation for healthcare experts or patients. To address this challenge, this project will research the embedding of deep learning models and feature extraction in visual analytics techniques. Visual analytics combines automated analysis with visualization techniques to gain insight into complex datasets and to support interpretability of models. More specifically, we will research how we can design, develop and evaluate interactive VA techniques on top of different prediction models for chronic diseases (T2D and CVD) risk estimation. The overall objective is twofold:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;to explain the rationale of predictions as well as the uncertainty of these predictions to healthcare experts as a basis to support decision making and increase user trust, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;incorporating input and feedback from end-users in the prediction process, such as missing lab values and parameter refinement. The approach will be evaluated in two elaborate user studies in clinical environments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
