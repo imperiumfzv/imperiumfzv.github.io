@@ -77,6 +77,14 @@
     </item>
     
     <item>
+      <title>Interpreting influence of feature ranking in derivation of prediction models for screening questionnaires optimization</title>
+      <link>/publication/icdm_2020/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/icdm_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FWO-ARRS project</title>
       <link>/project/fwo-arrs_2019-2022/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
@@ -86,8 +94,11 @@
 &lt;sub&gt;Supervisor: &lt;em&gt;Katrien Verbert&lt;/em&gt; (Informatics Section, KU Leuven)&lt;/sub&gt;&lt;/p&gt;
 &lt;p&gt;Foreign host institution: &lt;strong&gt;University of Maribor&lt;/strong&gt;&lt;br&gt;
 &lt;sub&gt;Supervisor: &lt;em&gt;Gregor Štiglic&lt;/em&gt; (FHS, University of Maribor)&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.sicris.si/public/jqm/prj.aspx?lang=eng&amp;amp;opdescr=search&amp;amp;opt=2&amp;amp;subopt=400&amp;amp;code1=cmn&amp;amp;code2=auto&amp;amp;psize=1&amp;amp;hits=1&amp;amp;page=1&amp;amp;count=&amp;amp;search_term=gregor%20stiglic&amp;amp;id=17686&amp;amp;slng=&amp;amp;order_by=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;sub&gt;Website reference of the project on the Slovenian Current Research Information System (SICRIS).&lt;/sub&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;br&gt;
-Recently rediscovered and vastly improved neural network based techniques, commonly named deep learning techniques, are becoming increasingly popular as a predictive tool in different fields of healthcare. It was shown that deep learning techniques outperform less complex predictive models on many occasions, especially in cases where feature engineering is needed prior to prediction. On the other hand, deep learning based risk estimation allows very limited interpretation for healthcare experts or patients. To address this challenge, this project will research the embedding of deep learning models and feature extraction in visual analytics techniques. Visual analytics combines automated analysis with visualization techniques to gain insight into complex datasets and to support interpretability of models. More specifically, we will research how we can design, develop and evaluate interactive VA techniques on top of different prediction models for chronic diseases (T2D and CVD) risk estimation. The overall objective is twofold:&lt;/p&gt;
+Recently rediscovered and vastly improved neural network based techniques, commonly named deep learning techniques, are becoming increasingly popular as a predictive tool in different fields of healthcare. It was shown that deep learning techniques outperform less complex predictive models on many occasions, especially in cases where feature engineering is needed prior to prediction. On the other hand, deep learning based risk estimation allows very limited interpretation for healthcare experts or patients. To address this challenge, this project will research the embedding of deep learning models and feature extraction in visual analytics techniques. Visual analytics (VA) combines automated analysis with visualization techniques to gain insight into complex datasets and to support interpretability of models. More specifically, we will research how we can design, develop and evaluate interactive VA techniques on top of different prediction models for chronic diseases risk estimation, such as Type 2 Diabetes (T2D) and Cardiovascular Diseases (CVD) .&lt;/p&gt;
+&lt;p&gt;The overall objective is twofold:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;to explain the rationale of predictions as well as the uncertainty of these predictions to healthcare experts as a basis to support decision making and increase user trust, and&lt;/p&gt;
