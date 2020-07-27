@@ -78,8 +78,23 @@
   </url>
   
   <url>
+    <loc>/authors/as_en_col/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/authors/as_en_col/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/as_en_col/"
+                />
+  </url>
+  
+  <url>
     <loc>/authors/gs_en/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
@@ -94,7 +109,7 @@
   
   <url>
     <loc>/authors/lc_en/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
@@ -105,6 +120,141 @@
                 hreflang="en"
                 href="/authors/lc_en/"
                 />
+  </url>
+  
+  <url>
+    <loc>/authors/lk_en_col/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/authors/lk_en_col/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/lk_en_col/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/pk_en/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/authors/pk_en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/pk_en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/publication_types/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/2/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/scirep_2020/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/publication/scirep_2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/scirep_2020/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/prediction-models/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/type-2-diabetes-mellitus/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -138,21 +288,6 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/data-mining/</loc>
     <lastmod>2020-04-10T00:00:00+00:00</lastmod>
   </url>
@@ -173,36 +308,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/questionnaire-design/</loc>
     <lastmod>2020-04-10T00:00:00+00:00</lastmod>
   </url>
@@ -215,21 +320,6 @@
   <url>
     <loc>/tags/stability-of-prediction-models/</loc>
     <lastmod>2020-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
   </url>
   
   <url>
@@ -249,11 +339,6 @@
   
   <url>
     <loc>/tags/interpretability/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/prediction-models/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -353,21 +438,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/publication_types/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/2/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/gamification/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
   </url>
@@ -433,36 +503,6 @@
   </url>
   
   <url>
-    <loc>/authors/pk_en/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/authors/pk_en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/pk_en/"
-                />
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/publication_types/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/3/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/healthcare/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url>
@@ -479,21 +519,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/publication/wires_2020/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/lk_en_col/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/authors/lk_en_col/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/lk_en_col/"
                 />
   </url>
   
@@ -529,31 +554,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/publication/lncs_2019/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/machine-learning/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/type-2-diabetes-mellitus/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/as_en_col/</loc>
-    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/authors/as_en_col/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/as_en_col/"
                 />
   </url>
   
