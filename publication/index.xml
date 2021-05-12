@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2020</copyright><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2021</copyright><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Development and validation of the type 2 diabetes mellitus 10-year risk score prediction models from survey data</title>
+      <link>/publication/prim_care_diab_2021/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/prim_care_diab_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Interpretability of Calibrated Prediction Models: A Case of Type 2 Diabetes Mellitus Screening Test</title>
+      <link>/publication/kdd_ws_2020/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/kdd_ws_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Early detection of type 2 diabetes mellitus using machine learning-based prediction models</title>
@@ -65,6 +81,14 @@
       <link>/publication/res_nurs_2019/</link>
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/publication/res_nurs_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Mobile Phone Mortality Risk Score Applications Using Data from the Electronic Medical Records</title>
+      <link>/publication/stud_heal_tech_and_inf_2020/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/stud_heal_tech_and_inf_2020/</guid>
       <description></description>
     </item>
     

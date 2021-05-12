@@ -5,7 +5,7 @@
     <link>/sl/</link>
       <atom:link href="/sl/index.xml" rel="self" type="application/rss+xml" />
     <description>Slovensko</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2021</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>Slovensko</title>
@@ -74,6 +74,22 @@
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Development and validation of the type 2 diabetes mellitus 10-year risk score prediction models from survey data</title>
+      <link>/sl/publication/prim_care_diab_2021/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/prim_care_diab_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Interpretability of Calibrated Prediction Models: A Case of Type 2 Diabetes Mellitus Screening Test</title>
+      <link>/sl/publication/kdd_ws_2020/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/kdd_ws_2020/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -393,6 +409,14 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     </item>
     
     <item>
+      <title>Evaluation of Mobile Phone Mortality Risk Score Applications Using Data from the Electronic Medical Records</title>
+      <link>/sl/publication/stud_heal_tech_and_inf_2020/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/stud_heal_tech_and_inf_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>/sl/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -524,6 +548,7 @@ Three
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
@@ -575,24 +600,6 @@ Three
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/sl/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/sl/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/sl/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/sl/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Academic: the website builder for Hugo</title>
       <link>/sl/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -619,7 +626,7 @@ Three
 &lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
 &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
 &lt;ul&gt;
 &lt;li&gt;☕️ 
 &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -742,6 +749,7 @@ Three
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <guid>/sl/post/2015-07-23-r-rmarkdown/</guid>
       <description>
+&lt;script src=&#34;../rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;

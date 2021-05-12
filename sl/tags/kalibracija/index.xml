@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kalibracija | Slovensko</title>
+    <link>/sl/tags/kalibracija/</link>
+      <atom:link href="/sl/tags/kalibracija/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kalibracija</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2021</copyright><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Kalibracija</title>
+      <link>/sl/tags/kalibracija/</link>
+    </image>
+    
+    <item>
+      <title>Development and validation of the type 2 diabetes mellitus 10-year risk score prediction models from survey data</title>
+      <link>/sl/publication/prim_care_diab_2021/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/prim_care_diab_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Interpretability of Calibrated Prediction Models: A Case of Type 2 Diabetes Mellitus Screening Test</title>
+      <link>/sl/publication/kdd_ws_2020/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/kdd_ws_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

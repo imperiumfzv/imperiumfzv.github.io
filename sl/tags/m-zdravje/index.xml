@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>m-zdravje | Slovensko</title>
+    <link>/sl/tags/m-zdravje/</link>
+      <atom:link href="/sl/tags/m-zdravje/index.xml" rel="self" type="application/rss+xml" />
+    <description>m-zdravje</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2021</copyright><lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>m-zdravje</title>
+      <link>/sl/tags/m-zdravje/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of Mobile Phone Mortality Risk Score Applications Using Data from the Electronic Medical Records</title>
+      <link>/sl/publication/stud_heal_tech_and_inf_2020/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/stud_heal_tech_and_inf_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
