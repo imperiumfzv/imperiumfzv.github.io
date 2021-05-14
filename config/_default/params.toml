@@ -93,7 +93,7 @@ address = {street = "Zitna ulica 15", city = "Maribor", postcode = "2000", count
 coordinates = {latitude = "46.549640", longitude = "15.644144"}
 
 # Directions for visitors to locate you.
-directions = "Enter main entrance and take the stairs to Office 210 on Floor 2"
+directions = "Enter main entrance and take the stairs to Office 113 on Floor 1"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
