@@ -5,7 +5,7 @@
     <link>/publication_types/6/</link>
       <atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2021</copyright><lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>6</title>
@@ -13,26 +13,10 @@
     </image>
     
     <item>
-      <title>Local Interpretability of Calibrated Prediction Models: A Case of Type 2 Diabetes Mellitus Screening Test</title>
-      <link>/publication/kdd_ws_2020/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/kdd_ws_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Local vs. global interpretability of machine learning models in type 2 diabetes mellitus screening</title>
       <link>/publication/lncs_2019/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/lncs_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evaluation of Mobile Phone Mortality Risk Score Applications Using Data from the Electronic Medical Records</title>
-      <link>/publication/stud_heal_tech_and_inf_2020/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/stud_heal_tech_and_inf_2020/</guid>
       <description></description>
     </item>
     

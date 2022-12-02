@@ -5,20 +5,12 @@
     <link>/authors/pk_en/</link>
       <atom:link href="/authors/pk_en/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2021</copyright><lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title></title>
       <link>/authors/pk_en/</link>
     </image>
-    
-    <item>
-      <title>Local Interpretability of Calibrated Prediction Models: A Case of Type 2 Diabetes Mellitus Screening Test</title>
-      <link>/publication/kdd_ws_2020/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/kdd_ws_2020/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Early detection of type 2 diabetes mellitus using machine learning-based prediction models</title>
@@ -49,14 +41,6 @@
       <link>/publication/allergy_2019/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/publication/allergy_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evaluation of Mobile Phone Mortality Risk Score Applications Using Data from the Electronic Medical Records</title>
-      <link>/publication/stud_heal_tech_and_inf_2020/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/stud_heal_tech_and_inf_2020/</guid>
       <description></description>
     </item>
     

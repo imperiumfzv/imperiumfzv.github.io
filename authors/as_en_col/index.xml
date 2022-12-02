@@ -5,20 +5,12 @@
     <link>/authors/as_en_col/</link>
       <atom:link href="/authors/as_en_col/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2021</copyright><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title></title>
       <link>/authors/as_en_col/</link>
     </image>
-    
-    <item>
-      <title>Development and validation of the type 2 diabetes mellitus 10-year risk score prediction models from survey data</title>
-      <link>/publication/prim_care_diab_2021/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/prim_care_diab_2021/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Early detection of type 2 diabetes mellitus using machine learning-based prediction models</title>
