@@ -5,12 +5,28 @@
     <link>/sl/tags/interpretabilnost/</link>
       <atom:link href="/sl/tags/interpretabilnost/index.xml" rel="self" type="application/rss+xml" />
     <description>Interpretabilnost</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>Interpretabilnost</title>
       <link>/sl/tags/interpretabilnost/</link>
     </image>
+    
+    <item>
+      <title>Extracting New Temporal Features to Improve the Interpretability of Undiagnosed Type 2 Diabetes Mellitus Prediction Models</title>
+      <link>/sl/publication/jpm_2022/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/jpm_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Interpretability of Calibrated Prediction Models: A Case of Type 2 Diabetes Mellitus Screening Test</title>
+      <link>/sl/publication/dshealth_2020/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/dshealth_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FWO-ARRS projekt</title>

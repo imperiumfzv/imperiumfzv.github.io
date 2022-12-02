@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>temeljni postopki oživljanja | Slovensko</title>
+    <link>/sl/tags/temeljni-postopki-ozivljanja/</link>
+      <atom:link href="/sl/tags/temeljni-postopki-ozivljanja/index.xml" rel="self" type="application/rss+xml" />
+    <description>temeljni postopki oživljanja</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>temeljni postopki oživljanja</title>
+      <link>/sl/tags/temeljni-postopki-ozivljanja/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating Quality, Usability, Evidence-Based Content, and Gamification Features in Mobile Learning Apps Designed to Teach Children Basic Life Support: Systematic Search in App Stores and Content Analysis</title>
+      <link>/sl/publication/mhealth_2021/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/mhealth_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

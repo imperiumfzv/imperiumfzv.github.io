@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning Environment | </title>
+    <link>/tags/learning-environment/</link>
+      <atom:link href="/tags/learning-environment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Learning Environment</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Learning Environment</title>
+      <link>/tags/learning-environment/</link>
+    </image>
+    
+    <item>
+      <title>Perception of the Online Learning Environment of Nursing Students in Slovenia: Validation of the DREEM Questionnaire</title>
+      <link>/publication/healthcare_2021_1/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/healthcare_2021_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,84 @@
     <link>/authors/lg_en/</link>
       <atom:link href="/authors/lg_en/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title></title>
       <link>/authors/lg_en/</link>
     </image>
+    
+    <item>
+      <title>Generating Extremely Short Summaries from the Scientific Literature to Support Decisions in Primary Healthcare: A Human Evaluation Study</title>
+      <link>/publication/aime_2022/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/aime_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Mobile Health Use on the Self-care of Patients With Type 2 Diabetes: Protocol for a Randomized Controlled Trial</title>
+      <link>/publication/jmir-rp_2022/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/jmir-rp_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relevance of automated generated short summaries of scientific abstract: use case scenario in healthcare</title>
+      <link>/publication/ichi_2022/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ichi_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting New Temporal Features to Improve the Interpretability of Undiagnosed Type 2 Diabetes Mellitus Prediction Models</title>
+      <link>/publication/jpm_2022/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/jpm_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Tools in Behavior Change Support Education in Health and Other Students: A Systematic Review</title>
+      <link>/publication/healthcare_2021_2/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/healthcare_2021_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review of Mortality Risk Prediction Models in Smartphone Applications</title>
+      <link>/publication/jms_2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/jms_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perception of the Online Learning Environment of Nursing Students in Slovenia: Validation of the DREEM Questionnaire</title>
+      <link>/publication/healthcare_2021_1/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/healthcare_2021_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Quality, Usability, Evidence-Based Content, and Gamification Features in Mobile Learning Apps Designed to Teach Children Basic Life Support: Systematic Search in App Stores and Content Analysis</title>
+      <link>/publication/mhealth_2021/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mhealth_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotional Intelligence among Nursing Students: Findings from a Longitudinal Study</title>
+      <link>/publication/healhcare_2022_1/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/healhcare_2022_1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Effects of Gamification and Oral Self-care on Oral Hygiene in Children: a Systematic Review of mHealth Apps</title>

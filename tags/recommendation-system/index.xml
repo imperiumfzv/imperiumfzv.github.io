@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recommendation system | </title>
+    <link>/tags/recommendation-system/</link>
+      <atom:link href="/tags/recommendation-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recommendation system</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Recommendation system</title>
+      <link>/tags/recommendation-system/</link>
+    </image>
+    
+    <item>
+      <title>Health Recommender Systems: Systematic Review</title>
+      <link>/publication/jmir_2021/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/jmir_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

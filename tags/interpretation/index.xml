@@ -5,12 +5,20 @@
     <link>/tags/interpretation/</link>
       <atom:link href="/tags/interpretation/index.xml" rel="self" type="application/rss+xml" />
     <description>Interpretation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>Interpretation</title>
       <link>/tags/interpretation/</link>
     </image>
+    
+    <item>
+      <title>Local Interpretability of Calibrated Prediction Models: A Case of Type 2 Diabetes Mellitus Screening Test</title>
+      <link>/publication/dshealth_2020/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dshealth_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Local vs. global interpretability of machine learning models in type 2 diabetes mellitus screening</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Čustvena inteligenca | Slovensko</title>
+    <link>/sl/tags/custvena-inteligenca/</link>
+      <atom:link href="/sl/tags/custvena-inteligenca/index.xml" rel="self" type="application/rss+xml" />
+    <description>Čustvena inteligenca</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Čustvena inteligenca</title>
+      <link>/sl/tags/custvena-inteligenca/</link>
+    </image>
+    
+    <item>
+      <title>Emotional Intelligence among Nursing Students: Findings from a Longitudinal Study</title>
+      <link>/sl/publication/healhcare_2022_1/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/healhcare_2022_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

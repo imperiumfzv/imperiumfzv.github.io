@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/authors/fw_en_col/</link>
+      <atom:link href="/authors/fw_en_col/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title></title>
+      <link>/authors/fw_en_col/</link>
+    </image>
+    
+    <item>
+      <title>Development and validation of the type 2 diabetes mellitus 10-year risk score prediction models from survey data</title>
+      <link>/publication/primcarediab_2021/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/primcarediab_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

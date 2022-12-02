@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kronične bolezni | Slovensko</title>
+    <link>/sl/tags/kronicne-bolezni/</link>
+      <atom:link href="/sl/tags/kronicne-bolezni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kronične bolezni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Kronične bolezni</title>
+      <link>/sl/tags/kronicne-bolezni/</link>
+    </image>
+    
+    <item>
+      <title>Digital Tools in Behavior Change Support Education in Health and Other Students: A Systematic Review</title>
+      <link>/sl/publication/healthcare_2021_2/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/healthcare_2021_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

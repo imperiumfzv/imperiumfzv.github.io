@@ -5,12 +5,28 @@
     <link>/authors/kv_en_col/</link>
       <atom:link href="/authors/kv_en_col/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title></title>
       <link>/authors/kv_en_col/</link>
     </image>
+    
+    <item>
+      <title>Explaining artificial intelligence with visual analytics in healthcare</title>
+      <link>/publication/wires_2021/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wires_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Recommender Systems: Systematic Review</title>
+      <link>/publication/jmir_2021/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/jmir_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interpretability of machine learning based prediction models in healthcare</title>

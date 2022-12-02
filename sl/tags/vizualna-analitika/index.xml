@@ -5,12 +5,20 @@
     <link>/sl/tags/vizualna-analitika/</link>
       <atom:link href="/sl/tags/vizualna-analitika/index.xml" rel="self" type="application/rss+xml" />
     <description>Vizualna analitika</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>Vizualna analitika</title>
       <link>/sl/tags/vizualna-analitika/</link>
     </image>
+    
+    <item>
+      <title>Explaining artificial intelligence with visual analytics in healthcare</title>
+      <link>/sl/publication/wires_2021/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/wires_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FWO-ARRS projekt</title>

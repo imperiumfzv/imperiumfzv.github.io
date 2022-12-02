@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Students | </title>
+    <link>/tags/students/</link>
+      <atom:link href="/tags/students/index.xml" rel="self" type="application/rss+xml" />
+    <description>Students</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Students</title>
+      <link>/tags/students/</link>
+    </image>
+    
+    <item>
+      <title>Emotional Intelligence among Nursing Students: Findings from a Longitudinal Study</title>
+      <link>/publication/healhcare_2022_1/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/healhcare_2022_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

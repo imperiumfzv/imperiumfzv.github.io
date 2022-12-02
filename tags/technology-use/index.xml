@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology Use | </title>
+    <link>/tags/technology-use/</link>
+      <atom:link href="/tags/technology-use/index.xml" rel="self" type="application/rss+xml" />
+    <description>Technology Use</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Technology Use</title>
+      <link>/tags/technology-use/</link>
+    </image>
+    
+    <item>
+      <title>Internet Use and Psychosomatic Symptoms among University Students: Cross-Sectional Study</title>
+      <link>/publication/ijerph_2022/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ijerph_2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>/tags/visual-analytics/</link>
       <atom:link href="/tags/visual-analytics/index.xml" rel="self" type="application/rss+xml" />
     <description>Visual Analytics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>Visual Analytics</title>
       <link>/tags/visual-analytics/</link>
     </image>
+    
+    <item>
+      <title>Explaining artificial intelligence with visual analytics in healthcare</title>
+      <link>/publication/wires_2021/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wires_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FWO-ARRS project</title>

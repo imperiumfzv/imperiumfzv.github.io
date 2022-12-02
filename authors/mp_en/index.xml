@@ -5,12 +5,28 @@
     <link>/authors/mp_en/</link>
       <atom:link href="/authors/mp_en/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title></title>
       <link>/authors/mp_en/</link>
     </image>
+    
+    <item>
+      <title>The Impact of Mobile Health Use on the Self-care of Patients With Type 2 Diabetes: Protocol for a Randomized Controlled Trial</title>
+      <link>/publication/jmir-rp_2022/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/jmir-rp_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotional Intelligence among Nursing Students: Findings from a Longitudinal Study</title>
+      <link>/publication/healhcare_2022_1/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/healhcare_2022_1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interpreting influence of feature ranking in derivation of prediction models for screening questionnaires optimization</title>

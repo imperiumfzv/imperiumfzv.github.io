@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explainable AI | </title>
+    <link>/tags/explainable-ai/</link>
+      <atom:link href="/tags/explainable-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Explainable AI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Explainable AI</title>
+      <link>/tags/explainable-ai/</link>
+    </image>
+    
+    <item>
+      <title>Explaining artificial intelligence with visual analytics in healthcare</title>
+      <link>/publication/wires_2021/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wires_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

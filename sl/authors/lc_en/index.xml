@@ -5,12 +5,52 @@
     <link>/sl/authors/lc_en/</link>
       <atom:link href="/sl/authors/lc_en/index.xml" rel="self" type="application/rss+xml" />
     <description>Slovensko</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>Slovensko</title>
       <link>/sl/authors/lc_en/</link>
     </image>
+    
+    <item>
+      <title>Internet Use and Psychosomatic Symptoms among University Students: Cross-Sectional Study</title>
+      <link>/sl/publication/ijerph_2022/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/ijerph_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Tools in Behavior Change Support Education in Health and Other Students: A Systematic Review</title>
+      <link>/sl/publication/healthcare_2021_2/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/healthcare_2021_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review of Mortality Risk Prediction Models in Smartphone Applications</title>
+      <link>/sl/publication/jms_2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/jms_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotional Intelligence among Nursing Students: Findings from a Longitudinal Study</title>
+      <link>/sl/publication/healhcare_2022_1/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/healhcare_2022_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Interpretability of Calibrated Prediction Models: A Case of Type 2 Diabetes Mellitus Screening Test</title>
+      <link>/sl/publication/dshealth_2020/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/dshealth_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Early detection of type 2 diabetes mellitus using machine learning-based prediction models</title>

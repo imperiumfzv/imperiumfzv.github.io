@@ -5,12 +5,36 @@
     <link>/authors/rmc_en_col/</link>
       <atom:link href="/authors/rmc_en_col/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title></title>
       <link>/authors/rmc_en_col/</link>
     </image>
+    
+    <item>
+      <title>Internet Use and Psychosomatic Symptoms among University Students: Cross-Sectional Study</title>
+      <link>/publication/ijerph_2022/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ijerph_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review of Mortality Risk Prediction Models in Smartphone Applications</title>
+      <link>/publication/jms_2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/jms_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Quality, Usability, Evidence-Based Content, and Gamification Features in Mobile Learning Apps Designed to Teach Children Basic Life Support: Systematic Search in App Stores and Content Analysis</title>
+      <link>/publication/mhealth_2021/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mhealth_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Effects of Gamification and Oral Self-care on Oral Hygiene in Children: a Systematic Review of mHealth Apps</title>

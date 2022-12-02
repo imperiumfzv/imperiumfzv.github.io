@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schoolchildren | </title>
+    <link>/tags/schoolchildren/</link>
+      <atom:link href="/tags/schoolchildren/index.xml" rel="self" type="application/rss+xml" />
+    <description>Schoolchildren</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Schoolchildren</title>
+      <link>/tags/schoolchildren/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating Quality, Usability, Evidence-Based Content, and Gamification Features in Mobile Learning Apps Designed to Teach Children Basic Life Support: Systematic Search in App Stores and Content Analysis</title>
+      <link>/publication/mhealth_2021/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mhealth_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
