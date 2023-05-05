@@ -5,12 +5,20 @@
     <link>/sl/tags/zdravstvo/</link>
       <atom:link href="/sl/tags/zdravstvo/index.xml" rel="self" type="application/rss+xml" />
     <description>Zdravstvo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sl</language><copyright>UM FHS Research Institute©, 2023</copyright><lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>Zdravstvo</title>
       <link>/sl/tags/zdravstvo/</link>
     </image>
+    
+    <item>
+      <title>Directive Explanations for Monitoring the Risk of Diabetes Onset: Introducing Directive Data-Centric Explanations and Combinations to Support What-If Explorations</title>
+      <link>/sl/publication/iui_2023/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/iui_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generating Extremely Short Summaries from the Scientific Literature to Support Decisions in Primary Healthcare: A Human Evaluation Study</title>
@@ -25,6 +33,14 @@
       <link>/sl/publication/ichi_2022/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
       <guid>/sl/publication/ichi_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining artificial intelligence with visual analytics in healthcare</title>
+      <link>/sl/publication/wires_2021/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/sl/publication/wires_2021/</guid>
       <description></description>
     </item>
     

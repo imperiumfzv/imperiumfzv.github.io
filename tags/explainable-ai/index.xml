@@ -5,12 +5,20 @@
     <link>/tags/explainable-ai/</link>
       <atom:link href="/tags/explainable-ai/index.xml" rel="self" type="application/rss+xml" />
     <description>Explainable AI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2022</copyright><lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>UM FHS Research Institute©, 2023</copyright><lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>Explainable AI</title>
       <link>/tags/explainable-ai/</link>
     </image>
+    
+    <item>
+      <title>Directive Explanations for Monitoring the Risk of Diabetes Onset: Introducing Directive Data-Centric Explanations and Combinations to Support What-If Explorations</title>
+      <link>/publication/iui_2023/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/iui_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Explaining artificial intelligence with visual analytics in healthcare</title>

@@ -93,8 +93,23 @@
   </url>
   
   <url>
+    <loc>/sl/authors/ab_en_col/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/ab_en_col/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/authors/ab_en_col/"
+                />
+  </url>
+  
+  <url>
     <loc>/sl/authors/gs_en/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -105,6 +120,141 @@
                 hreflang="sl"
                 href="/sl/authors/gs_en/"
                 />
+  </url>
+  
+  <url>
+    <loc>/sl/authors/jo_en_col/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/jo_en_col/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/authors/jo_en_col/"
+                />
+  </url>
+  
+  <url>
+    <loc>/sl/authors/kv_en_col/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/kv_en_col/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/authors/kv_en_col/"
+                />
+  </url>
+  
+  <url>
+    <loc>/sl/publication_types/6/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/publication_types/6/"
+                />
+  </url>
+  
+  <url>
+    <loc>/sl/authors/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/sl/publication/iui_2023/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/iui_2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/publication/iui_2023/"
+                />
+  </url>
+  
+  <url>
+    <loc>/sl/publication_types/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/sl/publication/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/sl/tags/razlozljiva-ui/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sl/tags/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/sl/tags/vizualna-analitika/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sl/tags/zdravstvo/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -153,36 +303,6 @@
   </url>
   
   <url>
-    <loc>/sl/publication_types/6/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/publication_types/6/"
-                />
-  </url>
-  
-  <url>
-    <loc>/sl/authors/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/authors/"
-                />
-  </url>
-  
-  <url>
     <loc>/sl/publication/aime_2022/</loc>
     <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -199,56 +319,6 @@
   
   <url>
     <loc>/sl/tags/obdelava-naravnega-jezika/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sl/publication_types/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>/sl/publication/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>/sl/tags/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/sl/tags/zdravstvo/</loc>
     <lastmod>2022-07-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -648,36 +718,6 @@
   </url>
   
   <url>
-    <loc>/sl/authors/jo_en_col/</loc>
-    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/jo_en_col/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/authors/jo_en_col/"
-                />
-  </url>
-  
-  <url>
-    <loc>/sl/authors/kv_en_col/</loc>
-    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/kv_en_col/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/authors/kv_en_col/"
-                />
-  </url>
-  
-  <url>
     <loc>/sl/publication/wires_2021/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -690,21 +730,6 @@
                 hreflang="sl"
                 href="/sl/publication/wires_2021/"
                 />
-  </url>
-  
-  <url>
-    <loc>/sl/tags/razlozljiva-ui/</loc>
-    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sl/tags/vizualna-analitika/</loc>
-    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sl/tags/zaravstvo/</loc>
-    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1168,6 +1193,21 @@
   </url>
   
   <url>
+    <loc>/sl/authors/lk_en/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/lk_en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="/sl/authors/lk_en/"
+                />
+  </url>
+  
+  <url>
     <loc>/sl/publication/scirep_2020/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1180,11 +1220,6 @@
                 hreflang="sl"
                 href="/sl/publication/scirep_2020/"
                 />
-  </url>
-  
-  <url>
-    <loc>/sl/authors/lk/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1749,20 +1784,6 @@
                 rel="alternate"
                 hreflang="sl"
                 href="/sl/tags/regression/"
-                />
-  </url>
-  
-  <url>
-    <loc>/sl/authors/lk_en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/lk_en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="/sl/authors/lk_en/"
                 />
   </url>
   
